@@ -2,6 +2,8 @@
 
 For FSD Architecture: feature sliced relative path checker
 
+[https://github.com/microlabig/eslint-plugin-bzm-fsd-plugin](https://github.com/microlabig/eslint-plugin-bzm-fsd-plugin)
+
 ## Installation
 
 You'll first need to install [ESLint](https://eslint.org/):
